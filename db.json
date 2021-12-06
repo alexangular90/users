@@ -1,0 +1,94 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "family": "Иванов",
+      "name": "Петр",
+      "father": "Сидорович",     
+      "image": "https://randomuser.me/api/portraits/med/men/31.jpg",
+      "age": 20,
+      "date": "06-03-2020"
+    },
+    {
+      "id": "2",
+      "family": "Петров",
+      "name": "Иван",
+      "father": "Иванович", 
+      "image": "https://randomuser.me/api/portraits/med/men/18.jpg",
+      "age": 35,
+      "date": "09-01-1995"
+    },
+    {
+      "id": "3",
+      "family": "Семенова",
+      "name": "Мария",
+      "father": "Васильевна", 
+      "image": "https://randomuser.me/api/portraits/med/women/72.jpg",
+      "age": 35,
+      "date": "15-10-1985"
+    },
+    {
+      "id": "4",
+      "family": "Сидоров",
+      "name": "Алексей",
+      "father": "Михайлович", 
+      "image": "https://randomuser.me/api/portraits/med/men/19.jpg",
+      "age": 27,
+      "date": "13-05-1993"
+    },
+    {
+      "id": "5",
+      "family": "Михайлов",
+      "name": "Никита",
+      "father": "Алексеевич", 
+      "image": "https://randomuser.me/api/portraits/med/men/20.jpg",
+      "age": 21,
+      "date": "18-07-2003"
+    },
+    {
+      "id": "6",
+      "family": "Васильева",
+      "name": "Екатерина",
+      "father": "Ивановна", 
+      "image": "https://randomuser.me/api/portraits/med/women/70.jpg",
+      "age": 28,
+      "date": "24-04-1992"
+    },
+    {
+      "id": "7",
+      "family": "Степанов",
+      "name": "Михаил",
+      "father": "Иванович", 
+      "image": "https://randomuser.me/api/portraits/med/men/22.jpg",
+      "age": 43,
+      "date": "01-12-1978"
+    },     
+    {
+      "id": "8",
+      "family": "Фролова",
+      "name": "Валентина",
+      "father": "Петровна", 
+      "image": "https://randomuser.me/api/portraits/med/women/73.jpg",
+      "age": 30,
+      "date": "14-07-1990"
+    },
+    {
+      "id": "9",
+      "family": "Харитонов",
+      "name": "Петр",
+      "father": "Петрович", 
+      "image": "https://randomuser.me/api/portraits/med/men/10.jpg",
+      "age": 50,
+      "date": "01-12-1970"
+    },
+    {
+      "id": "10",
+      "family": "Михайлова",
+      "name": "Антонина",
+      "father": "Алексеевна", 
+      "image": "https://randomuser.me/api/portraits/med/women/51.jpg",
+      "age": 40,
+      "date": "14-07-1980"
+    }
+  ]
+}
